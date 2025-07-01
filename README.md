@@ -1,32 +1,241 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=400&section=header&text=TRAN%20KA%20BUN&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=🌟%20MASTER%20OF%20CODE%20|%20ARCHITECT%20OF%20DREAMS%20|%20CREATOR%20OF%20DIGITAL%20MAGIC%20🌟&descAlignY=55&descAlign=center&descSize=20" width="100%" />
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF6B6B, #4ECDC4); width: 80%; margin: 20px auto;" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=35&duration=2500&pause=800&color=FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=250&lines=🚀+WELCOME+TO+MY+DIGITAL+UNIVERSE+🚀;💫+FULL-STACK+DEVELOPER+|+INNOVATION+ENTHUSIAST+💫;🎯+TURNING+IMAGINATION+INTO+REALITY+🎯;🌈+CODING+THE+FUTURE,+ONE+LINE+AT+A+TIME+🌈" alt="Epic Typing Animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
+</div>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #667eea, #764ba2); width: 80%; margin: 20px auto;" />
+
+## 🎭 **THE ARCHITECT BEHIND THE CODE**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
+</div>
+
+<table align="center" border="0" cellpadding="15" cellspacing="0" width="90%">
+<tr>
+<td align="center" width="25%" style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); border-radius: 20px; padding: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Education" width="80" />
+  <br><br>
+  <strong style="font-size: 18px; color: #fff;">🎓 ACADEMIC JOURNEY</strong><br>
+  <sub style="font-size: 14px; color: #fff;">VKU University<br>Da Nang City, Vietnam</sub>
+</td>
+<td align="center" width="25%" style="background: linear-gradient(45deg, #667eea, #764ba2); border-radius: 20px; padding: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Major" width="80" />
+  <br><br>
+  <strong style="font-size: 18px; color: #fff;">💡 SPECIALIZATION</strong><br>
+  <sub style="font-size: 14px; color: #fff;">Software Engineering<br>3rd Year Student</sub>
+</td>
+<td align="center" width="25%" style="background: linear-gradient(45deg, #f093fb, #f5576c); border-radius: 20px; padding: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Education" width="80" />
+  <br><br>
+  <strong style="font-size: 18px; color: #fff;">🌐 PASSION</strong><br>
+  <sub style="font-size: 14px; color: #fff;">Full-Stack Development<br>UI/UX Innovation</sub>
+</td>
+<td align="center" width="25%" style="background: linear-gradient(45deg, #43e97b, #38f9d7); border-radius: 20px; padding: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Major" width="80" />
+  <br><br>
+  <strong style="font-size: 18px; color: #fff;">🏡 HOME</strong><br>
+  <sub style="font-size: 14px; color: #fff;">Quang Tri, Da Nang<br>Viet Nam</sub>
+</td>
+</tr>
+</table>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #f093fb, #f5576c); width: 80%; margin: 20px auto;" />
+
+## 🌟 **CONNECT WITH THE MASTERMIND**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" />
+</div>
+
+<div align="center">
   
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%92%AB+About+Me" alt="Typing SVG" />
-👨‍💻I'm 2nd year at VKU at Da Nang City.<br>
-
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%8C%90+Socials" alt="Typing SVG" />
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bunwg29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bungutboiz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edmvntkb@gmail.com) 
-
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Tech+Stack" alt="Typing SVG" />
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats" alt="Typing SVG" />
-![](https://github-readme-stats.vercel.app/api?username=bunwg29&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bunwg29&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bunwg29&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%8F%86+GitHub+Trophies" alt="Typing SVG" />
-![](https://github-profile-trophy.vercel.app/?username=bunwg29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%E2%9C%8D%EF%B8%8F+Random+Dev+Quote" alt="Typing SVG" />
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%94%9D+Top+Contributed+Repo" alt="Typing SVG" />
-![](https://github-contributor-stats.vercel.app/api?username=bunwg29&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=bunwg29&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://linkedin.com/in/trankabun/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&logoWidth=30" alt="LinkedIn" height="50" />
+</a>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50" height="50">
+&nbsp;&nbsp;
+<a href="mailto:bun2932005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=EA4335&logoWidth=30" alt="Gmail" height="50" />
+</a>
 
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=600&lines=Let's+create+something+EXTRAORDINARY!;Ready+to+change+the+world+with+code!;Innovation+starts+with+connection!" alt="Connect Message" />
+</div>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #43e97b, #38f9d7); width: 80%; margin: 20px auto;" />
+
+## 🔥 **TECH STACK**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="600" />
+</div>
+
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="90%">
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px;">
+  <h3 style="color: white; margin: 0;">🎨 FRONTEND</h3>
+  <br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,materialui,storybook&theme=dark&perline=4" />
+</td>
+</tr>
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 20px;">
+  <h3 style="color: white; margin: 0;">⚙️ BACKEND</h3>
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,pug&theme=dark&perline=5" />
+</td>
+</tr>
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 15px; padding: 20px;">
+  <h3 style="color: white; margin: 0;">🛠️ DEVELOPMENT & OTHERS</h3>
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vercel,vscode&theme=dark&perline=5" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=Trello&logoColor=white&height=35" alt="Trello" />
+</td>
+</tr>
+</table>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF6B6B, #4ECDC4); width: 80%; margin: 20px auto;" />
+
+## 📊 **GITHUB COMMAND CENTER**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</div>
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunwg29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFF&border_radius=20&custom_title=🔥%20CODE%20MASTERY%20🔥" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bunwg29&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF6B6B&fire=FF1493&currStreakLabel=FF1493&border_radius=20" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bunwg29&theme=redical&bg_color=0D1117&color=FF1493&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&custom_title=🌟%20CONTRIBUTION%20GALAXY%20🌟" width="90%" />
+</div>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #667eea, #764ba2); width: 80%; margin: 20px auto;" />
+
+## 🏆 **HALL OF DIGITAL FAME**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bunwg29&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=8&title=Stars,Followers,Commits,PR,Issues,Repositories,MultipleLang,PullRequest" />
+</div>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #f093fb, #f5576c); width: 80%; margin: 20px auto;" />
+
+## 🌟 **REPOSITORY SHOWCASE**
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=bunwg29&limit=5&theme=radical&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=FF1493&text_color=FFF&border_radius=20" />
+</div>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #43e97b, #38f9d7); width: 80%; margin: 20px auto;" />
+
+## 💭 **WISDOM FROM THE CODE GODS**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFF&border_radius=20" />
+</div>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF6B6B, #4ECDC4); width: 80%; margin: 20px auto;" />
+
+## 🎯 **THE LEGEND'S CHRONICLES**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400" />
+</div>
+
+<div align="center">
+
+```javascript
+class DigitalMastermind {
+    constructor() {
+        this.name = 'Tran Ka Bun';
+        this.title = 'Full-Stack Architect';
+        this.location = 'Da Nang, Vietnam 🇻🇳';
+        this.university = 'VKU - Software Engineering';
+        this.passion = 'Creating Digital Experiences';
+        this.mission = 'Transform Ideas Into Reality';
+        this.superpower = 'Turning Coffee Into Code ☕➡️💻';
+    }
+
+    getDailyRoutine() {
+        return [
+            '☀️ Wake up with coding dreams',
+            "💻 Code like there's no tomorrow",
+            '🚀 Push boundaries of possibility',
+            '🌙 Dream about next big project',
+        ];
+    }
+
+    getLifeMotto() {
+        return 'Code with passion, debug with patience, innovate with purpose! 🌟';
+    }
+}
+
+const legend = new DigitalMastermind();
+console.log('🔥 Welcome to my realm of infinite possibilities! 🔥');
+```
+
+</div>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #667eea, #764ba2); width: 80%; margin: 20px auto;" />
+
+## 🚀 **MISSION CONTROL STATUS**
+
+<div align="center">
+  
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="80%">
+<tr>
+<td align="center" style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); border-radius: 15px; padding: 15px;">
+  <strong style="color: white; font-size: 16px;">🔥 CURRENT STATUS</strong><br>
+  <sub style="color: white;">Learn and Practice</sub>
+</td>
+<td align="center" style="background: linear-gradient(45deg, #667eea, #764ba2); border-radius: 15px; padding: 15px;">
+  <strong style="color: white; font-size: 16px;">💫 FOCUS AREA</strong><br>
+  <sub style="color: white;">Full-Stack Innovation</sub>
+</td>
+<td align="center" style="background: linear-gradient(45deg, #f093fb, #f5576c); border-radius: 15px; padding: 15px;">
+  <strong style="color: white; font-size: 16px;">🎯 NEXT GOAL</strong><br>
+  <sub style="color: white;">AI Integration</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #f093fb, #f5576c); width: 80%; margin: 20px auto;" />
+
+## 📈
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" />
+</div>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #43e97b, #38f9d7); width: 80%; margin: 20px auto;" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=800&lines=🌟+THANK+YOU+FOR+ENTERING+MY+DIGITAL+REALM!+🌟;🚀+LET'S+BUILD+THE+IMPOSSIBLE+TOGETHER!+🚀;💫+THE+FUTURE+IS+CODED+BY+DREAMERS!+💫" alt="Epic Closing" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=footer&text=🔥%20KEEP%20FIRING%20|%20KEEP%20DREAMING%20🔥&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=65&" width="100%" />
+
+</div>
+
+<!-- 🌟 Engineered by Tran Ka Bun - Where Code Meets Art 🌟 -->
