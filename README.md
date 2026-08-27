@@ -15,7 +15,7 @@
 </td>
 <td align="left" width="50%">
 
-<h3>🎯 3rd Year Software Engineering Student</h3>
+<h3>🎯 4th Year Software Engineering Student</h3>
 <p style="font-size: 16px;">🏫 VKU University, Da Nang, Vietnam</p>
 
 <h3>💡 Passionate About:</h3>
